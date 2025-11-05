@@ -504,7 +504,7 @@ a:focus {
 -----------------------------------------*/
 
 .navbar {
-   background-color: #278fff; /* Azul oscuro elegante */
+   background-color: #278fff; /* Azul modificado */
     padding: 1rem;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
