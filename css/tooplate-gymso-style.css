@@ -31,7 +31,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
 }
 
 :root {
-    --primary-color:        rgb(251, 17, 17);
+    --primary-color:        #1400ED;
     --white-color:          #ffffff;
     --dark-color:           #171819;
     --about-bg-color:       #f9f9f9;
@@ -504,8 +504,9 @@ a:focus {
 -----------------------------------------*/
 
 .navbar {
-    background-color: #000000;
+   background-color: #278fff; /* Azul oscuro elegante */
     padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -536,7 +537,7 @@ a:focus {
 }
 
 .navbar .social-icon li a {
-    color: var(--white-color);
+    color: var(--dark-color);
 }
 
 .navbar-toggler {
